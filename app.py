@@ -124,13 +124,13 @@ st.subheader("🛍️ Explore Our Collection")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    show_product("images/product1.jpg","Floral Coord Set 🌸",1299,1799,"4.5","120",3,"Hi I want Floral Coord Set")
+    show_product("images/product1.jpg","Floral Coord Set 🌸",2199,3799,"4.5","120",3,"Hi I want Floral Coord Set")
 
 with col2:
-    show_product("images/product2.jpg","Casual Chic Set ✨",1399,1899,"4.6","210",2,"Hi I want Casual Chic Set")
+    show_product("images/product2.jpg","Casual Chic Set ✨",1999,2999,"4.6","210",2,"Hi I want Casual Chic Set")
 
 with col3:
-    show_product("images/product3.jpg","Party Wear Coord 💃",1599,2199,"4.7","300",1,"Hi I want Party Wear Coord")
+    show_product("images/product3.jpg","Party Wear Coord 💃",1799,2199,"4.7","300",1,"Hi I want Party Wear Coord")
 
 # =====================================================
 # SMART RECOMMENDATION
